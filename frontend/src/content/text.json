@@ -1,0 +1,141 @@
+{
+  "_comment": "THIS FILE CONTAINS ALL THE TEXTS FOR THE WEBSITE. THE FIELDS STARTING WITH '_COMMENT' ARE EXPLANATIONS AND RECOMMENDATIONS FOR THE LENGTH OF THE TEXTS. THEY DO NOT APPEAR ON THE WEBSITE.",
+  "homePage": {
+    "hero": {
+      "_comment_title": "(20-30 CHARACTERS.)",
+      "title": "Miriam Heen Skotland",
+      "_comment_subtitle": "(50-100 CHARACTERS.)",
+      "subtitle": "Et trygt rom for å utforske tanker, følelser og relasjoner – sentralt i Oslo.",
+      "_comment_buttonText": "(10-15 CHARACTERS.)",
+      "buttonText": "Bestill Time"
+    },
+    "features": {
+      "_comment_title": "(15-25 CHARACTERS.)",
+      "title": "Hva kan jeg tilby?",
+      "items": [
+        {
+          "_comment_title": "(15-25 CHARACTERS.)",
+          "title": "Individualterapi",
+          "_comment_description": "(100-150 CHARACTERS.)",
+          "description": "For ungdom og voksne. Utforsk følelser, tanker og mønstre i et trygt rom."
+        },
+        {
+          "_comment_title": "(15-25 CHARACTERS.)",
+          "title": "Parterapi",
+          "_comment_description": "(100-150 CHARACTERS.)",
+          "description": "Fokus på kommunikasjon, tilknytning og trygghet i relasjonen."
+        },
+        {
+          "_comment_title": "(15-25 CHARACTERS.)",
+          "title": "Foreldreveiledning",
+          "_comment_description": "(100-150 CHARACTERS.)",
+          "description": "Støtte i foreldrerollen og hjelp til å forstå barnets behov."
+        }
+      ]
+    }
+  },
+  "aboutPage": {
+    "_comment_title": "(20-30 CHARACTERS.)",
+    "title": "Om Miriam Heen Skotland",
+    "_comment_description": "(300-500 CHARACTERS.)",
+    "description": " Jeg er psykolog med utdanning fra Universitetet i Bergen. Jeg har praksis sentralt i Oslo, og tar imot ungdom, voksne, par og foreldre til samtaler. I terapirommet er jeg opptatt av å skape et trygt og åpent rom der du kan utforske tanker, følelser og erfaringer i ditt eget tempo. Jeg har bred erfaring med et bredt spekter av lidelser, blant annet angst, depresjon, PTSD, spiseforstyrrelser, traumer, relasjonelle vansker og livskriser. I tillegg tilbyr jeg foreldreveiledning og parterapi. I tillegg til lang fartstid i det private, har jeg erfaring fra det offentlige helsevesenet i arbeid med barn og unge i BUP, samt voksne tilknyttet DPS. Jeg har spesialisering i psykodynamisk terapi fra Universitetet i Buenos Aires. Jeg er opptatt av å forstå hvordan de erfaringer vi har påvirker aktuelle opplevelser, og bruker dette som en aktiv deltakende psykolog. Jeg jobber hovedsakelig med en emosjonsfokusert tilnærming, som handler om å forstå og bruke følelsene som en ressurs i endringsprosesser. Samtidig trekker jeg på andre terapeutiske retninger for å tilpasse arbeidet best mulig til den enkelte. Terapi for meg handler om å møte mennesker der de er – med respekt, nysgjerrighet og varme. Ved siden av arbeidet som psykolog er jeg også musiker og yogainstruktør. Jeg opplever at erfaringene fra musikk og yoga gir meg et bredere perspektiv på sammenhengen mellom kropp, følelser og uttrykk, og beriker tilstedeværelsen i terapirommet.",
+    "methodology": {
+      "_comment_title": "(20-30 CHARACTERS.)",
+      "title": "Metodikk og Tilnærming",
+      "_comment_description": "(300-500 CHARACTERS.)",
+      "description": "Hun tilbyr en intensiv korttids psykodynamisk metode kombinert med kognitiv terapi. Den psykodynamiske metoden fokuserer på personligheten og følelseslivet, mens den kognitive metoden fokuserer mest på tankene. Hennes hovedoppgave i psykologistudiet, \"Tango som terapi?\", utforsker kroppslige erfaringer, affektregulering og relasjonelle prosesser. Miriam er også en sertifisert yogainstruktør."
+    },
+    "experience": {
+      "_comment_title": "(10-20 CHARACTERS.)",
+      "title": "Erfaring",
+      "_comment_description": "(400-600 CHARACTERS.)",
+      "description": "Miriam har vært privatpraktiserende psykolog siden februar 2019. Hennes kliniske praksis inkluderer arbeid ved et pediatrisk spesialsykehus i Buenos Aires (Garrahan Hospital of Pediatrics), hvor hun jobbet med komplekse kliniske tilfeller, psykologisk traume og fysiske/mentale helseutfordringer (arbeidsspråk: spansk). Hun har også undervisningserfaring som tutor i psykologistudier ved Universitetet i Bergen, samt erfaring som sosialarbeider/helseassistent og frivillig innen mental helse."
+    },
+    "_comment_contact": "(30-50 CHARACTERS.)",
+    "contact": "Ta kontakt for en uforpliktende samtale.",
+    "image": {
+      "_comment_src": "(PATH TO THE IMAGE. SHOULD START WITH /IMG/.)",
+      "src": "/images/Miriam-2.jpeg",
+      "_comment_alt": "(10-20 CHARACTERS.)",
+      "alt": "Miriam Heen Skotland"
+    }
+  },
+  "servicesPage": {
+    "_comment_title": "(10-20 CHARACTERS.)",
+    "title": "Tilnærminger og metode jeg benytter",
+    "services": [
+      {
+        "_comment_title": "(25-40 CHARACTERS.)",
+        "title": "Emosjonsfokusert terapi",
+        "_comment_description": "(100-150 CHARACTERS.)",
+        "description": "Målet med EFT er å bidra til å gjøre følelsene mer forståelige og håndterbare. Fokus i terapien er aksept, regulering, bevisstgjøring og kommunikasjon av følelser."
+      },
+      {
+        "_comment_title": "(25-40 CHARACTERS.)",
+        "title": "Kognitive metoder",
+        "_comment_description": "(100-150 CHARACTERS.)",
+        "description": "Den kognitive tilnærmingen handler om sammenhengen mellom tanker, følelser og handlinger. I terapien utforsker vi hvordan bestemte tanke- og tolkningsmønstre påvirker hvordan du har det, og hvordan du kan utvikle mer fleksible og hjelpsomme måter å møte deg selv og situasjonene i livet på."
+      },
+      {
+        "_comment_title": "(15-25 CHARACTERS.)",
+        "title": "Psykodynamisk tilnærming",
+        "_comment_description": "(100-150 CHARACTERS.)",
+        "description": "Den intensive psykodynamiske tilnærmingen fokuserer på å forstå og møte underliggende følelser og indre konflikter som kan skape psykisk smerte. Målet er å styrke kontakt med egne følelser og fremme varig endring gjennom et aktivt og nært samarbeid i terapien."
+      },
+      {
+        "_comment_title": "(20-30 CHARACTERS.)",
+        "title": "Kroppsbaserte Metoder",
+        "_comment_description": "(100-150 CHARACTERS.)",
+        "description": "Bygger på forståelsen av at kropp og sinn henger tett sammen, og at psykisk helse ikke bare handler om tanker og følelser – men også om hvordan disse uttrykkes og lagres i kroppen."
+      },
+      {
+        "_comment_title": "(25-40 CHARACTERS.)",
+        "title": "Motivasjonell samtale",
+        "_comment_description": "(80-120 CHARACTERS.)",
+        "description": "Samarbeidsorientert tilnærming som hjelper deg å utforske og styrke egen motivasjon for endring. Gjennom en empatisk og ikke-dømmende samtale får du støtte til å tydeliggjøre hva som er viktig for deg, og finne frem til indre drivkraft og retning i endringsprosesser."
+      },
+      {
+        "_comment_title": "(15-25 CHARACTERS.)",
+        "title": "Minfullness- basert tilnærming",
+        "_comment_description": "(150-250 CHARACTERS.)",
+        "description": "Handler om å øve på oppmerksomt nærvær – å legge merke til tanker, følelser og kroppsfornemmelser uten å dømme dem. Gjennom økt bevissthet og aksept kan du utvikle en mer rolig og fleksibel måte å møte deg selv og utfordringer i livet på."
+      }
+    ],
+    "footer": {
+      "_comment_text": "(40-60 CHARACTERS.)",
+      "text": "Alle tjenester tilbys på norsk, engelsk og spansk.",
+      "_comment_buttonText": "(10-15 CHARACTERS.)",
+      "buttonText": "Bestill Time"
+    }
+  },
+  "contactPage": {
+    "_comment_title": "(20-30 CHARACTERS.)",
+    "title": "Kontakt & Praktisk Info",
+    "contactInfo": {
+      "_comment_title": "(15-25 CHARACTERS.)",
+      "title": "Kontaktinformasjon",
+      "email": "miriampsykolog@gmail.com",
+      "phone": "+4797759814",
+      "address": "Gjerdrums vei 19, 0484 OSLO (Nydalen)",
+      "languages": "Norsk, Engelsk, Spansk"
+    },
+    "form": {
+      "_comment_title": "(15-25 CHARACTERS.)",
+      "title": "Kontaktskjema",
+      "_comment_nameLabel": "(4-8 CHARACTERS.)",
+      "nameLabel": "Navn",
+      "_comment_emailLabel": "(4-8 CHARACTERS.)",
+      "emailLabel": "E-post",
+      "_comment_messageLabel": "(7-10 CHARACTERS.)",
+      "messageLabel": "Melding",
+      "_comment_submitButton": "(10-15 CHARACTERS.)",
+      "submitButton": "Send Melding",
+      "_comment_submittingButton": "(10-15 CHARACTERS.)",
+      "submittingButton": "Sender..."
+    },
+    "map": {
+      "loading": "Laster kart...",
+      "apiKeyWarning": "For å vise kartet, legg til din Google Maps API-nøkkel i en .env.local fil som NEXT_PUBLIC_GOOGLE_MAPS_API_KEY."
+    }
+  }
+}

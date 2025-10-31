@@ -1,0 +1,30 @@
+.aboutContainer {
+  /* Hacemos que este contenedor sea relativo para posicionar la imagen de fondo */
+  position: relative;
+
+  /* Reemplaza py-20 y asegura que el contenedor tenga suficiente altura */
+  padding-top: 5rem; /* 80px */
+  padding-bottom: 5rem; /* 80px */
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+}
+
+.backgroundImage {
+  /* Asegura que la imagen de fondo no interfiera con el contenido */
+  z-index: -1;
+}
+
+.contentPanel {
+  /* Fondo semitransparente para que el texto sea legible */
+  background-color: rgba(0, 0, 0, 0.5); /* Negro con 50% de opacidad */
+  padding: 2rem;
+  border-radius: 0.5rem;
+
+  /* Color de texto blanco para que contraste con el fondo oscuro */
+  color: white;
+
+  /* Asegura que el panel de contenido esté por encima de la imagen de fondo */
+  position: relative;
+  z-index: 1;
+}

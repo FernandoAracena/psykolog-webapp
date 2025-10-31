@@ -1,0 +1,29 @@
+# Dependencias
+**/node_modules/
+/backend/venv
+
+# Archivos de entorno
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Build de Next.js
+/frontend/.next/
+/frontend/out/
+
+# Archivos de caché y logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Archivos de caché de Python
+__pycache__/
+.pytest_cache/
+.mypy_cache/
+
+# Archivos del editor
+.vscode/
+.idea/
+*.swp

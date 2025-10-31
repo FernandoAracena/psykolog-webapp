@@ -1,0 +1,17 @@
+.aboutContainer {
+  /* Establece la imagen de fondo */
+  background-image: url('/images/about-background.jpg');
+  
+  /* Asegura que la imagen cubra todo el contenedor */
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+
+  /* Opcional: asegura que el contenedor ocupe al menos toda la pantalla */
+  min-height: 100vh;
+  width: 100%;
+
+  /* Opcional: ajusta el color del texto para que sea legible sobre la imagen */
+  color: white;
+  padding: 2rem; /* Añade algo de espacio interior */
+}
