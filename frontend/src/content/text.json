@@ -4,9 +4,9 @@
     "hero": {
       "_comment_title": "(20-30 CHARACTERS.)",
       "title": "Miriam Heen Skotland",
-      "_comment_subtitle": "(100-150 CHARACTERS.)",
-      "subtitle": "Psykolog i Oslo og online for hele Norge. Spesialist i emosjonsfokusert og psykodynamisk terapi for voksne og par.",
-      "_comment_buttonText": "(10-20 CHARACTERS.)",
+      "_comment_subtitle": "(50-100 CHARACTERS.)",
+      "subtitle": "Et trygt rom for å utforske tanker, følelser og relasjoner – sentralt i Oslo.",
+      "_comment_buttonText": "(10-15 CHARACTERS.)",
       "buttonText": "Bestill Time"
     },
     "features": {
@@ -15,21 +15,21 @@
       "items": [
         {
           "_comment_title": "(15-25 CHARACTERS.)",
-          "title": "Individualterapi i Oslo",
+          "title": "Individualterapi",
           "_comment_description": "(100-150 CHARACTERS.)",
-          "description": "For voksne som søker hjelp for angst, depresjon eller livskriser. Få time sentralt i Oslo eller via trygg videoterapi."
+          "description": "For ungdom og voksne. Utforsk følelser, tanker og mønstre i et trygt rom."
         },
         {
           "_comment_title": "(15-25 CHARACTERS.)",
           "title": "Parterapi",
           "_comment_description": "(100-150 CHARACTERS.)",
-          "description": "Forbedre kommunikasjon og finn tilbake til tryggheten i forholdet med emosjonsfokusert parterapi (EFT-C)."
+          "description": "Fokus på kommunikasjon, tilknytning og trygghet i relasjonen."
         },
         {
           "_comment_title": "(15-25 CHARACTERS.)",
-          "title": "Online Psykolog",
+          "title": "Foreldreveiledning",
           "_comment_description": "(100-150 CHARACTERS.)",
-          "description": "Få effektiv og fleksibel psykologhjelp på nett, uansett hvor i Norge du bor. Kort ventetid."
+          "description": "Støtte i foreldrerollen og hjelp til å forstå barnets behov."
         }
       ]
     }
@@ -38,7 +38,7 @@
     "_comment_title": "(20-30 CHARACTERS.)",
     "title": "Om Miriam Heen Skotland",
     "_comment_description": "(300-500 CHARACTERS.)",
-    "description": "Jeg er en privatpraktiserende psykolog i Oslo sentrum med utdanning fra Universitetet i Bergen og spesialisering i psykodynamisk terapi. Jeg tilbyr individualterapi og parterapi, både ved fysisk oppmøte i Nydalen og som online psykolog for klienter over hele Norge. Min kjernekompetanse er emosjonsfokusert terapi (EFT) og psykodynamisk terapi, metoder som er effektive for behandling av angst, depresjon, traumer, relasjonelle vansker og livskriser. Jeg er opptatt av å skape et trygt rom hvor vi sammen kan utforske hvordan tidligere erfaringer påvirker deg i dag. Målet er ikke bare å lindre symptomer, men å skape varig endring ved å styrke kontakten med dine egne følelser. Min erfaring fra både privat praksis og offentlig helsevesen (BUP, DPS) gir meg en bred forståelse for et spekter av utfordringer. Som din psykolog i Oslo, er jeg en aktiv og engasjert terapeut som møter deg med varme og nysgjerrighet.",
+    "description": " Jeg er psykolog med utdanning fra Universitetet i Bergen. Jeg har praksis sentralt i Oslo, og tar imot ungdom, voksne, par og foreldre til samtaler. I terapirommet er jeg opptatt av å skape et trygt og åpent rom der du kan utforske tanker, følelser og erfaringer i ditt eget tempo. Jeg har bred erfaring med et bredt spekter av lidelser, blant annet angst, depresjon, PTSD, spiseforstyrrelser, traumer, relasjonelle vansker og livskriser. I tillegg tilbyr jeg foreldreveiledning og parterapi. I tillegg til lang fartstid i det private, har jeg erfaring fra det offentlige helsevesenet i arbeid med barn og unge i BUP, samt voksne tilknyttet DPS. Jeg har spesialisering i psykodynamisk terapi fra Universitetet i Buenos Aires. Jeg er opptatt av å forstå hvordan de erfaringer vi har påvirker aktuelle opplevelser, og bruker dette som en aktiv deltakende psykolog. Jeg jobber hovedsakelig med en emosjonsfokusert tilnærming, som handler om å forstå og bruke følelsene som en ressurs i endringsprosesser. Samtidig trekker jeg på andre terapeutiske retninger for å tilpasse arbeidet best mulig til den enkelte. Terapi for meg handler om å møte mennesker der de er – med respekt, nysgjerrighet og varme. Ved siden av arbeidet som psykolog er jeg også musiker og yogainstruktør. Jeg opplever at erfaringene fra musikk og yoga gir meg et bredere perspektiv på sammenhengen mellom kropp, følelser og uttrykk, og beriker tilstedeværelsen i terapirommet.",
     "methodology": {
       "_comment_title": "(20-30 CHARACTERS.)",
       "title": "Metodikk og Tilnærming",
@@ -113,7 +113,7 @@
     "title": "Kontakt & Praktisk Info",
     "contactInfo": {
       "_comment_title": "(15-25 CHARACTERS.)",
-      "title": "Psykolog i Oslo (Nydalen)",
+      "title": "Kontaktinformasjon",
       "email": "miriampsykolog@gmail.com",
       "phone": "+4797759814",
       "address": "Gjerdrums vei 19, 0484 OSLO (Nydalen)",
@@ -137,23 +137,5 @@
       "loading": "Laster kart...",
       "apiKeyWarning": "For å vise kartet, legg til din Google Maps API-nøkkel i en .env.local fil som NEXT_PUBLIC_GOOGLE_MAPS_API_KEY."
     }
-  },
-  "faq": {
-    "_comment": "Seksjon for Ofte Stilte Spørsmål (FAQ). Dette er ekstremt viktig for SEO og AI-chat.",
-    "title": "Ofte Stilte Spørsmål",
-    "items": [
-      {
-        "question": "Hva koster en time hos privat psykolog i Oslo?",
-        "answer": "Prisen for en individualtime (50 min) er [sett inn din pris her] NOK. For parterapi (75 min) er prisen [sett inn din pris her] NOK. Jeg tilbyr konkurransedyktige priser for privat psykolog i Oslo."
-      },
-      {
-        "question": "Tilbyr du online psykolog-timer?",
-        "answer": "Ja, jeg tilbyr videoterapi til klienter over hele Norge. Dette er et fleksibelt og effektivt alternativ til fysisk oppmøte, og forskning viser at det er like virkningsfullt. Du trenger kun en stabil internettforbindelse."
-      },
-      {
-        "question": "Hva er forskjellen på psykodynamisk og emosjonsfokusert terapi?",
-        "answer": "Psykodynamisk terapi hjelper deg å forstå hvordan ubevisste mønstre og tidligere erfaringer påvirker deg i dag. Emosjonsfokusert terapi (EFT) fokuserer mer direkte på å forstå, akseptere og endre fastlåste og vonde følelser. Vi finner sammen ut hvilken tilnærming som passer best for deg."
-      }
-    ]
   }
 }
