@@ -10,8 +10,8 @@ const containerStyle = {
 };
 
 const center = {
-  lat: 59.9437, // Approximate latitude for Gjerdrums vei 19, Oslo
-  lng: 10.7220  // Approximate longitude for Gjerdrums vei 19, Oslo
+  lat: 59.9515, // Approximate latitude for Maridalsveien 323, Oslo
+  lng: 10.7620  // Approximate longitude for Maridalsveien 323, Oslo
 };
 
 export default function Contact() {

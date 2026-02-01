@@ -95,7 +95,7 @@
 - **Title**: Kontaktinformasjon
 - **Email**: miriamskotland@gmail.com
 - **Phone**: +4797759814
-- **Address**: Gjerdrums vei 19, 0484 OSLO (Nydalen)
+- **Address**: Maridalsveien 323, 0881 Oslo
 - **Languages**: Norsk, Engelsk, Spansk
 ## Form
 *Comment for title: (15-25 CHARACTERS.)*
