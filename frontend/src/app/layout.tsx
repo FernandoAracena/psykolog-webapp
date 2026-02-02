@@ -6,8 +6,38 @@ import Footer from '@/components/Layout/Footer';
 import '../styles/globals.css';
 
 export const metadata: Metadata = {
-  title: 'MiriamPsykolog',
-  description: 'Psykolog Miriam Heen Skotland - Terapi og veiledning i Oslo',
+  metadataBase: new URL('https://www.miriampsykolog.no'),
+  title: {
+    default: 'Psykolog Miriam Heen Skotland | Oslo',
+    template: '%s | Miriam Psykolog'
+  },
+  description: 'Offisiell nettside for Psykolog Miriam Heen Skotland. Terapi og veiledning i Oslo. Bestill time trygt på miriampsykolog.no.',
+  keywords: ['Psykolog Miriam', 'Miriam Psykolog', 'Miriam Heen Skotland', 'Psykolog Oslo', 'miriampsykolog.no'],
+  authors: [{ name: 'Miriam Heen Skotland' }],
+  creator: 'Miriam Heen Skotland',
+  publisher: 'Miriam Heen Skotland',
+  alternates: {
+    canonical: '/',
+  },
+  openGraph: {
+    title: 'Psykolog Miriam Heen Skotland',
+    description: 'Offisiell nettside. Terapi og veiledning i Oslo.',
+    url: 'https://www.miriampsykolog.no',
+    siteName: 'Miriam Psykolog',
+    locale: 'no_NO',
+    type: 'website',
+  },
+  robots: {
+    index: true,
+    follow: true,
+    googleBot: {
+      index: true,
+      follow: true,
+      'max-video-preview': -1,
+      'max-image-preview': 'large',
+      'max-snippet': -1,
+    },
+  },
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
@@ -41,6 +71,11 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         />
 
         <AuthProvider>
+          <div className="bg-gray-100 text-blue-900 p-3 text-center text-sm border-b border-gray-200">
+             <p className="max-w-4xl mx-auto">
+              <strong>Viktig informasjon om våre digitale kanaler:</strong> Vi har blitt gjort oppmerksomme på at det finnes andre nettsider med lignende navn (som .com-domener). For å ivareta ditt personvern og din sikkerhet, ber vi deg bekrefte at du alltid bruker www.miriampsykolog.no når du bestiller time eller sender informasjon. Vi er ikke tilknyttet andre domener.
+            </p>
+          </div>
           <Header />
           <main>{children}</main>
           <Footer />
