@@ -71,11 +71,6 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         />
 
         <AuthProvider>
-          <div className="bg-gray-100 text-blue-900 p-3 text-center text-sm border-b border-gray-200">
-             <p className="max-w-4xl mx-auto">
-              <strong>Viktig informasjon om våre digitale kanaler:</strong> Vi har blitt gjort oppmerksomme på at det finnes andre nettsider med lignende navn (som .com-domener). For å ivareta ditt personvern og din sikkerhet, ber vi deg bekrefte at du alltid bruker www.miriampsykolog.no når du bestiller time eller sender informasjon. Vi er ikke tilknyttet andre domener.
-            </p>
-          </div>
           <Header />
           <main>{children}</main>
           <Footer />
